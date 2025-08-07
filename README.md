@@ -28,16 +28,20 @@
 ![](https://github-profile-trophy.vercel.app/?username=akashprajapaticse&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+
 <p align="center">
   <img src="Custom_banner.png" alt="Akash Prajapati Banner" width="100%" />
 </p>
+
 ---
 
-# 🔗 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashprajapaticse)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/akashprajapaticse)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/akashprajapaticse)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashprajapaticse@gmail.com)
+## 🔗 Connect With Me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-prajapati-8234492a1)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/AkashPrajapati03/)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/akashprajwmjg/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/CS_2201640100038)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.prajapati.cse@gmail.com)
 
 ---
 
