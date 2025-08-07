@@ -28,10 +28,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=akashprajapaticse&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
-# 🐍 GitHub Contribution Snake
-![snake animation](https://github.com/akashprajapaticse/akashprajapaticse/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <img src="assets/Custom_banner.png" alt="Akash Prajapati Banner" width="100%" />
+</p>
 ---
 
 # 🔗 Connect With Me:
