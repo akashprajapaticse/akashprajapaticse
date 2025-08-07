@@ -17,6 +17,22 @@
 
 ---
 
+---
+
+##  **Featured Projects**
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [🔒 Password Manager](https://github.com/akashprajapaticse/Password-Manager) | Secure tool to create and manage passwords | JavaScript |
+| [✂️ Stone‑Paper‑Scissors Game](https://github.com/akashprajapaticse/Stone-Paper-Scissors-Game) | Classic game built for browser play | HTML, CSS, JavaScript |
+| [👀 FaceTrack Attendance System](https://github.com/akashprajapaticse/Facetrack_Attendance_System) | Face‑recognition attendance logging via webcam | Python, OpenCV |
+| [🎨 Gesture Drawing Pad](https://github.com/akashprajapaticse/Gesture_Based_DrawingPad) | Draw virtually using hand gestures | Python, Mediapipe, OpenCV |
+| [🖱 Gesture Touchpad](https://github.com/akashprajapaticse/Gesture_Touchpad) | Control cursor using hand gestures | Python, Mediapipe, OpenCV |
+| [🚦 Vehicle Detection & Counting](https://github.com/akashprajapaticse/Vehicle_Detection_Counting) | Real‑time vehicle detection using YOLOv8 | Python, YOLOv8, OpenCV |
+
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akashprajapaticse&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akashprajapaticse&theme=radical&hide_border=false)
