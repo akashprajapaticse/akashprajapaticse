@@ -29,7 +29,7 @@
 
 ---
 <p align="center">
-  <img src="assets/Custom_banner.png" alt="Akash Prajapati Banner" width="100%" />
+  <img src="Custom_banner.png" alt="Akash Prajapati Banner" width="100%" />
 </p>
 ---
 
